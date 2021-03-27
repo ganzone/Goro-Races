@@ -1,0 +1,49 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GoroRaces32", "GoroRaces32\GoroRaces32.vcproj", "{2885D6E6-FEAD-4E4D-BB6E-6F2913F60537}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "grEngine", "grEngine\grEngine.vcproj", "{BEA34EEF-070A-4613-AB0A-66CBF365F931}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Goro Races Track Editor", "Goro Races Track Editor\Goro Races Track Editor.vcproj", "{1EFBE93B-42A0-4566-A84D-6C55EEA57FD9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{548AF7CF-1D28-4999-AA57-C96B55494C3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Optimized Release
+		ConfigName.2 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+		{2885D6E6-FEAD-4E4D-BB6E-6F2913F60537}.0 = {BEA34EEF-070A-4613-AB0A-66CBF365F931}
+		{1EFBE93B-42A0-4566-A84D-6C55EEA57FD9}.0 = {BEA34EEF-070A-4613-AB0A-66CBF365F931}
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{2885D6E6-FEAD-4E4D-BB6E-6F2913F60537}.Debug.ActiveCfg = Debug|Win32
+		{2885D6E6-FEAD-4E4D-BB6E-6F2913F60537}.Debug.Build.0 = Debug|Win32
+		{2885D6E6-FEAD-4E4D-BB6E-6F2913F60537}.Optimized Release.ActiveCfg = Optimized Release|Win32
+		{2885D6E6-FEAD-4E4D-BB6E-6F2913F60537}.Optimized Release.Build.0 = Optimized Release|Win32
+		{2885D6E6-FEAD-4E4D-BB6E-6F2913F60537}.Release.ActiveCfg = Release|Win32
+		{2885D6E6-FEAD-4E4D-BB6E-6F2913F60537}.Release.Build.0 = Release|Win32
+		{BEA34EEF-070A-4613-AB0A-66CBF365F931}.Debug.ActiveCfg = Debug|Win32
+		{BEA34EEF-070A-4613-AB0A-66CBF365F931}.Debug.Build.0 = Debug|Win32
+		{BEA34EEF-070A-4613-AB0A-66CBF365F931}.Optimized Release.ActiveCfg = Optimized Release|Win32
+		{BEA34EEF-070A-4613-AB0A-66CBF365F931}.Optimized Release.Build.0 = Optimized Release|Win32
+		{BEA34EEF-070A-4613-AB0A-66CBF365F931}.Release.ActiveCfg = Release|Win32
+		{BEA34EEF-070A-4613-AB0A-66CBF365F931}.Release.Build.0 = Release|Win32
+		{1EFBE93B-42A0-4566-A84D-6C55EEA57FD9}.Debug.ActiveCfg = Debug|Win32
+		{1EFBE93B-42A0-4566-A84D-6C55EEA57FD9}.Debug.Build.0 = Debug|Win32
+		{1EFBE93B-42A0-4566-A84D-6C55EEA57FD9}.Optimized Release.ActiveCfg = Optimized Release|Win32
+		{1EFBE93B-42A0-4566-A84D-6C55EEA57FD9}.Optimized Release.Build.0 = Optimized Release|Win32
+		{1EFBE93B-42A0-4566-A84D-6C55EEA57FD9}.Release.ActiveCfg = Release|Win32
+		{1EFBE93B-42A0-4566-A84D-6C55EEA57FD9}.Release.Build.0 = Release|Win32
+		{548AF7CF-1D28-4999-AA57-C96B55494C3C}.Debug.ActiveCfg = Debug
+		{548AF7CF-1D28-4999-AA57-C96B55494C3C}.Optimized Release.ActiveCfg = Release
+		{548AF7CF-1D28-4999-AA57-C96B55494C3C}.Optimized Release.Build.0 = Release
+		{548AF7CF-1D28-4999-AA57-C96B55494C3C}.Release.ActiveCfg = Release
+		{548AF7CF-1D28-4999-AA57-C96B55494C3C}.Release.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
