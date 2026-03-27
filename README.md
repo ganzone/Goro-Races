@@ -14,4 +14,8 @@ Enjoy !
 
 ![sgamemain](doc/images/sgamemain.png) ![sgamemain](doc/images/sgameplay.png) ![sgamemain](doc/images/seditormain.png) ![sgamemain](doc/images/seditorcoloredit.png)
 
- ![sgamemain](doc/images/powerracer-gb.png)  ![sgamemain](doc/images/hqdefault.jpg)
+
+
+![sgamemain](doc/images/powerracer-gb.png) 
+
+![sgamemain](doc/images/hqdefault.jpg)
