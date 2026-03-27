@@ -11,3 +11,5 @@ F2     - New Game
 Written in C++ using SDL and OpenGL.
 
 Enjoy !
+
+!(doc/images/sgamemain.png)
