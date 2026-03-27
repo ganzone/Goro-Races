@@ -12,4 +12,4 @@ Written in C++ using SDL and OpenGL.
 
 Enjoy !
 
-!(doc/images/sgamemain.png)
+![sgamemain](doc/images/sgamemain.png)
